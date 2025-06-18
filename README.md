@@ -1,19 +1,16 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+Digital Business Card Project
+Overview
+This repository contains the code for my personal digital business card. Designed with a clean and professional aesthetic, it serves as a responsive, interactive way to present my professional profile, key contact information, and background as a Frontend Developer.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Technologies Used
+HTML5: For structuring the content and semantic markup.
+CSS3: For styling, layout, and implementing a responsive design.
+Features
+Responsive Design: The card adapts seamlessly to various screen sizes, from desktops to mobile phones, ensuring a consistent user experience.
+Professional Presentation: Clearly displays my name (Enrique Castañeda), current role (Frontend Developer), and location (Amsterdam, The Netherlands).
+Personal Branding: Features a professional headshot to add a personal touch.
+Clean User Interface: Focuses on clear typography and a balanced layout for easy readability.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Learning Journey
+This project was developed as part of my foundational learning in frontend web development, where I focused on solidifying my skills in HTML and CSS to create a visually appealing and structured web presence.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
