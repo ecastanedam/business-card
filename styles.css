@@ -1,0 +1,37 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 40px); 
+   
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 10px;
+    border: 3px solid #fefae0;
+    height: 150px;
+    object-fit: cover;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background: #d4a373;
+    color: #fefae0;
+    border-bottom: 6px solid #ccd5ae;
+    border-radius: 15px;
+    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.4);
+    transition: all 0.3s ease-in-out;
+     
+    
+}
+
+
+
