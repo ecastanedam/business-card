@@ -20,3 +20,9 @@ This repository contains the code for my personal digital business card. Designe
 
 This project was developed as part of my foundational learning in frontend web development, where I focused on solidifying my skills in HTML and CSS to create a visually appealing and structured web presence.
 
+## Live Demo
+
+You can view the live version of this digital business card here:
+[busines-card](https://dynamic-shortbread-0f5710.netlify.app/)
+
+
