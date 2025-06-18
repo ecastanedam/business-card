@@ -23,6 +23,6 @@ This project was developed as part of my foundational learning in frontend web d
 ## Live Demo
 
 You can view the live version of this digital business card here:
-[busines-card](https://dynamic-shortbread-0f5710.netlify.app/)
+[https://dynamic-shortbread-0f5710.netlify.app/](https://dynamic-shortbread-0f5710.netlify.app/)
 
 
