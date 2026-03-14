@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code for my personal digital business card. Designed with a clean and professional aesthetic, it serves as a responsive, interactive way to present my professional profile, key contact information, and background as a Front-end Developer.
+This repository contains the code for my personal digital business card. Designed with a clean and professional aesthetic, it serves as a responsive, interactive way to present my professional profile, key contact information, and background as a Front-End Developer.
 
 ## Technologies Used
 
@@ -18,7 +18,7 @@ This repository contains the code for my personal digital business card. Designe
 
 ## Learning Journey
 
-This project was developed as part of my foundational learning in frontend web development, where I focused on solidifying my skills in HTML and CSS to create a visually appealing and structured web presence.
+This project was developed as part of my foundational learning in front-end web development, where I focused on solidifying my skills in HTML and CSS to create a visually appealing and structured web presence.
 
 ## Live Demo
 
